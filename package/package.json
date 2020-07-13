@@ -1,0 +1,16 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "formacion de marcos sobre node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node string_name.js Pedro Morales"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "factorial": "^1.0.0",
+    "upper-case": "^2.0.1"
+  }
+}

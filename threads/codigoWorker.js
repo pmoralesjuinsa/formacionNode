@@ -1,5 +1,5 @@
 const { parentPort } = require('worker_threads');
-const ordenar = require('./ordenar');
+const ordenar = require('./ordenas');
 
 function random(min, max) {
     return Math.random() * (max - min) + min;
